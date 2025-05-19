@@ -19,7 +19,7 @@ def sort_events():
     order = data.get('order', 'asc')
 
     # sleep to show the received and the sent data
-    time.sleep(5)
+    time.sleep(2)
     
     # sort the dates
     sorted_events = sorted(events, key=lambda x: x['date'], reverse=(order == 'desc'))

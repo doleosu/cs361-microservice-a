@@ -1,8 +1,47 @@
 {
   "events": [
-    { "name": "Pop Festival", "date": "2025-07-20" },
-    { "name": "Indie Night", "date": "2025-06-15" },
-    { "name": "Jazz in the Park", "date": "2025-05-10" }
+    {
+      "date": "2025-05-25",
+      "artist": "Avril Lavigne",
+      "title": "The Greatest Hits",
+      "location": "Bangor, ME",
+      "ticketUrl": "buy-ticket.html"
+    },
+    {
+      "date": "2025-05-25",
+      "artist": "Beyonce",
+      "title": "COWBOY CARTER",
+      "location": "East Rutherford, NJ",
+      "ticketUrl": "buy-ticket.html"
+    },
+    {
+      "date": "2025-09-13",
+      "artist": "Lady Gaga",
+      "title": "The MAYHEM Ball",
+      "location": "Toronto, ON, CA",
+      "ticketUrl": "buy-ticket.html"
+    },
+    {
+      "date": "2025-10-22",
+      "artist": "Jonas Brothers",
+      "title": "Living the Dream",
+      "location": "Tampa, FL",
+      "ticketUrl": "buy-ticket.html"
+    },
+    {
+      "date": "2025-12-22",
+      "artist": "TWICE",
+      "title": "WHAT IS LOVE TOUR",
+      "location": "Seattle, WA",
+      "ticketUrl": "buy-ticket.html"
+    },
+    {
+      "date": "2026-01-03",
+      "artist": "NEW JEANS",
+      "title": "ETA TOUR",
+      "location": "Los Angeles, CA",
+      "ticketUrl": "buy-ticket.html"
+    }
   ],
   "order": "asc"
 }
