@@ -1,0 +1,8 @@
+{
+  "events": [
+    { "name": "Pop Festival", "date": "2025-07-20" },
+    { "name": "Indie Night", "date": "2025-06-15" },
+    { "name": "Jazz in the Park", "date": "2025-05-10" }
+  ],
+  "order": "asc"
+}
